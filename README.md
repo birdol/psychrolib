@@ -1,3 +1,6 @@
+防删除备份。一个写的不错的湿空气物性计算类库，完全基于AHRI手册进行计算。有少量迭代计算，基本够用。
+
+
 # <img src="assets/psychrolib_logo.svg" alt="PsychroLib Logo" height="40" width="40"> PsychroLib [![PyPI](https://img.shields.io/pypi/v/psychrolib)](https://pypi.org/project/PsychroLib) [![NuGet](https://img.shields.io/nuget/v/PsychroLib.svg?maxAge=600)](https://www.nuget.org/packages/PsychroLib)
 
 
